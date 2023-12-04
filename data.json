@@ -1,0 +1,18 @@
+[
+	{
+		"title": "Hello world",
+		"content": " 'Hello, World!' is a foundational phrase in programming. It's often the first program beginners create in a new coding language. This simple code verifies that a system is set up correctly and introduces basic concepts. It's a symbolic starting point for learning to communicate with computers through code."
+	},
+	{
+		"title": "How to Start Programming?",
+		"content": "I'm new to programming and want to learn how to get started. I've been looking at various languages like Python, JavaScript, and Java, but I'm not sure which one to begin with. Any advice or resources for beginners would be greatly appreciated!"
+	},
+	{
+		"title": "Favorite Programming Languages?",
+		"content": "I've been programming for a few years now and have worked with multiple languages, but I'm always curious about others' preferences. What's your favorite programming language, and why do you prefer it over others? I find the diversity of languages fascinating and would love to hear your insights!"
+	},
+	{
+		"title": "Web Development Frameworks Comparison",
+		"content": "I'm currently exploring different web development frameworks such as React, Vue.js, Angular, and others. Each has its strengths and weaknesses, but I'm having trouble deciding which one to focus on for my upcoming project. Are there any specific features or advantages of one framework over another that you find particularly useful? Your experiences and recommendations would be immensely helpful!"
+	}
+]
